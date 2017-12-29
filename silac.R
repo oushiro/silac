@@ -325,7 +325,7 @@ transc.final<-gsub(" $", "", transc.final)
 transc.final<-gsub("^ ", "", transc.final)
 
 ###PARTE 3
-chave<-read.csv("https://raw.githubusercontent.com/oushiro/datafiles/master/chave_fonologica_utf8.csv", sep=";", encoding = "UTF-8") 
+chave<-read.csv("https://raw.githubusercontent.com/oushiro/silac/master/chave_fonologica_utf8.csv", sep=";", encoding = "UTF-8") 
 head(chave)
 
 transc.fonologica<-transc.final
