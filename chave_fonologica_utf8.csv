@@ -1,0 +1,205 @@
+﻿grafema;fonema;pensar
+xxx;XXX;ininteligiveis
+[áâà];a;TIRAR ACENTOS GRAFICOS...
+[éê];e;
+í;i;
+[óô];o;
+ú;u;
+ão;ãw;...exceto nasais
+õe;õj;
+y;i;
+a-chi-ro-\'pi-ta;a-ki-ro-\'pi-ta;EXCECOES
+am-Is-ter-\'dã;a-mis-ter-\'dã;PALAVRAS ESTRANGEIRAS
+\'baha-mas;ba-\'rra-mas;
+\'brahma;brah-ma;
+ca-tu-\'pi-ri;ca-tu-pi-\'ri;
+\b\'gai(s)?;\'guei\1;
+gai-(\')dar;guei-\1dar;
+ce-(\')peus-pI;ce-\1pe-us-pI;
+gron-\'chi;gron-\'ki;
+hi-pi-e-;ri-pi-;
+hos-\'tel;ros-\'tel;
+i-(\')po-dI;ai-\1po-dI;
+\'re-vei-lon;re-vei-\'on;
+\'je-ans;\'dins;
+jun-g;i-un-g;
+ma-ken-\'zi-e;ma-\'ken-zi;
+ma-\'nha-tan;man-\'rra-tan;
+mer-co-\'sul;mer-co-'ssul;
+mo-\'to-boi;mo-to-\'boi;
+\'pan a-me-ri-\'ca-n([oa])(s)?;pa-na-me-ri-\'ca-n\1\2;
+pi-za;pi-tsa;(pizza)
+\'ses-c;\'ses-kI;
+\'sidI-nei;\'si-dI-nei;
+ca-tI-\'chu-p;ke-tI-'xu-pI;
+(\')tI-chan;\1tSan;
+tI-(\')chau;\1tSau;
+tI-(\')che;\1tSe;
+tI-(\')chi;\1tSi;
+tI-(\')chum;\1tSum;
+ca-ra-(\')tI-cho;ca-\1ra-tSo;
+te-le-ca-(\')tI-ch;te-le-\1ke-tS;
+ku-bis-tI-(\')che-k;ku-bi-\1tSek;? Nao ta funcionando, nao sei pq
+\'chi;\'ki;
+Is-ki-nhe-\'a-dIs;Is-kin-\'he-dIs;
+ge-\'e-kIs;\'gui-ks;
+ho-lywo-\'o-d;ro-li-\'u-dI;
+fa-ce-bo-\'o-k;fei-ssi-\'bu-kI;
+\'bo-om;\'bum;
+bro-o-\'klin;\'bru-klin;
+go-\'o-gle;\'gu-gou;
+su-\'per;\'su-per;
+hi-\'per;\'hi-per;
+mas-\'ter;\'mas-ter;
+clu-\'ber;\'clu-ber;
+mo-\'le-tom;mo-le-\'tom;
+ul-\'tra-ssom;ul-tra-\'ssom;
+fe-e-\'lin;\'fi-lin;Palavras estrangeiras menos frequentes (lista certamente incompleta)
+fo-\'o-d;\'fu-dI;
+fre-\'e-dom;\'fri-dom;
+que-\'ens-town;\'kwins-town;
+we-\'e-k;\'wik;
+(\')(.+)(zi-nh)([oa])(s)?;\2\1\3\4\5;DIMINUTIVO ZINHO - ACENTO
+ben-\'çãw;\'ben-çãw;AUMENTATIVO - ACENTO
+pre-di-\'ãw-zãw;pre-di-ãw-\'zãw;
+a-\'guen;a-\'gwen;gu-> gw
+a-guen;a-gwen;
+en-xa-\'guei;en-xa-\'gwei;
+lin-(\')?guis-ti-ca;lin-\1gwis-ti-ca;
+lin-(\')?gua;lin-\1gwa;
+mo-no-\'lin-gues;mo-no-\'lin-gwes;
+bi-ri-\'gui;bi-ri-\'gwi;
+a-\'gui-nha;a-\'gwi-nha;
+gui-\'a-nas;gwi-\'a-nas;
+tran-(\')?qui-;tran-\1kwi-;qu -> kw
+con-se-(\')?qu;con-se-\1kw;
+fre-(\')?qu;fre-\1kw;
+se-(\')?que([ns]);se-\1kwe\2;
+se-\'que-la;se-'kwe-la;
+qu-\'ais;\'kwais;
+qu-ais-\'quer;kwais-\'quer;
+\'quã-o;\'kwãw;
+i-gu-\'ais;i-\'gwais;
+"gui-\'a-nas""";gwi-\'a-nas;
+cin-(\')?quen;cin-\1kwen;
+pro-(\')?xi-(\')?m;pro-\1ssi-\2m;PALAVRAS COM X
+au-(\')?xi-li;au-\1ssi-li;X -> SS
+\'ma-xi-m([ao])(s)?;\'ma-ssi-m\1\2;
+trou-(\')?xe;trou-\1sse;
+\'a-lex;\'a-leks;X -> KS
+\'bo-xe;\'bo-kse;
+com-\'ple-x([ao])(s)?;com-\'ple-ks\1\2;
+co-ne-\'xãw;co-ne-\'ksãw;
+\'fe-nix;\'fe-niks;
+\'fi-x([ao])(s)?;\'fi-ks\1\2;
+fle-(\')?x;fle-\1ks;
+flu-xo(s)?;flu-kso\1;
+\'fox;\'foks;
+se-x([aeiou]);se-ks\1;
+\'mar-x;\'mar-ks;
+\'mix;\'miks;
+\'xe-rox;\'Se-roks;
+do-x([ao])(s)?;do-ks\1\2;paradoxo, ortodoxas
+o-xi-(\')?g;o-ksi-\1g;oxigênio, oxigenada
+pra-\'fren-tex;pra-\'fren-teks;
+\'ro-lex;\'ro-leks;
+ta-(\')?xi;ta-\1ksi;
+\'xbox;\'e-kis-boks;
+e-xa-(\')?ge;e-za-\1ge;X -> Z
+e-(\')?xal-(\')?t;e-\1zal-\2t;
+\be-(\')?xa-([mt]);e-\1za-\2;exame, exato
+\b\'e-xa\b;\'e-za;
+e-xe-cu-;e-ze-cu-;
+\b(\')?e-(\')?xem;\1e-\2zem;
+e-(\')?xer-(\')?c;e-\1zer-\2c;
+\be-xi-(\')?b;e-zi-\1b;
+\be-(\')?xi-(\')?([gj]);e-\1zi-\2\3;
+\be-(\')?xis;e-\1zis;
+e-\'xi-mi([ao])(s)?;e-\'zi-mi\1\2;
+\be-xor-b;e-zor-b;
+\be-\'xo-t;e-\'zo-t;
+ex-(\')?c([ei]);e-\1ss\2;X's
+x-;s-;
+x;S;o restante dos x são S
+nh;N;REGRAS GERAIS
+lh;L;
+ch;S;
+sh;S;
+ph;f;
+zh;z;
+h[aã];a;
+h[e];e;
+h[i];i;
+h[oõ];o;
+h[u];u;
+(\')aam;a-\1ham;excecao aa regra de hV
+(\')uum;u-\1hum;
+uhn;un;
+([aãeioõu])-(\')?s([aãeioõu]);\1-\2z\3;s-> z entre vogais
+([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais
+([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (2x na mesma palavra)
+([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (3x na mesma palavra)
+([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (4x na mesma palavra)
+([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo
+([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo (2x na mesma palavra)
+([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo (3x na mesma palavra)
+rr;h;R forte -> h
+\br;h;R forte -> h
+ss;s;
+s[cç];s;
+ç;s;
+ge;Ze;
+gi;Zi;
+j([aãeioõu]);Z\1;
+que;ke;
+qua;kwa;
+qui;ki;
+quo;kwo;
+gua;gwa;
+guã;gwã;
+gue;ge;
+gui;gi;
+guo;gwo;
+z\b;s;#z seguido de espaço: final de palavra
+ce;se;
+ci;si;
+c([aãoõu]);k\1;
+c([Rl])([aeiouã]);k\1\2;
+ah;a;interjeicoes
+eh;e;
+oh;o;
+al$;aw;vocalizacao de /l/
+al-;aw-;
+al ;aw ;#seguido de espaço
+el$;ew;
+el-;ew-;
+el ;ew ;
+il$;iw;
+il-;iw-;
+il ;iw ;
+ol$;ow;
+ol-;ow-;
+ol ;ow ;
+ul$;uw;
+ul-;uw-;
+ul ;uw ;
+([aeou])i;\1j;
+au;aw;
+eu;ew;
+iu;iw;
+ou;ow;
+(.{2}-)(\')(.{1}I);\2\1\3;EPENTESE - ACENTO
+(.{1}-)(\')(.{1}I);\2\1\3;
+b\'li-tIs;\'bli-tIs;
+b(\')ur-gI-mA;\1bur-gI-mA;nao ta funfando, nao sei pq!
+u-(\')dI-sO;\1hu-dI-sO;nao ta funfando, nao sei pq!
+I;i;I epentético -> i
+ã;A;vogais nasais -> maiúsculas
+õ;O;ditongos nasais
+a([mn]);A;
+e([mn]);E;
+i([mn]);I;
+o([mn]);O;
+u([mn]);U;
+ke-ti-(\')Su-pii;ke-ti-\1Su-pi;nao sei porque tá acontecendo ii, mas isso resolve
+(\')ses-kiis;\'ses-kis;
