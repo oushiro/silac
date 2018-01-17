@@ -197,7 +197,7 @@ I;i;I epentético -> i
 ã;A;vogais nasais -> maiúsculas
 õ;O;ditongos nasais
 a([mn]);A;
-e([mn]);E;
+e([mn]);\~e;
 i([mn]);I;
 o([mn]);O;
 u([mn]);U;
