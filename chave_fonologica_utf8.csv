@@ -140,6 +140,8 @@ uhn;un;
 rr;h;R forte -> h
 \br;h;R forte -> h
 ([aãeioõu])-h([aãeioõu]);\1-r\2;r entre vogais
+([aãeioõu])-h([aãeioõu]);\1-r\2;r entre vogais (palavras com 2x seguidas)
+([aãeioõu])-h([aãeioõu]);\1-r\2;r entre vogais (palavras com 3x seguidas)
 ss;s;
 s[cç];s;
 ç;s;
