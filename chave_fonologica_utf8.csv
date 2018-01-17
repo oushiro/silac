@@ -139,9 +139,9 @@ uhn;un;
 ([aãeioõu])r\b;\1R;R em coda 
 rr;h;R forte -> h
 \br;h;R forte -> h
-([aãeioõu])-h([aãeioõu]);\1-r\2;r entre vogais
-([aãeioõu])-h([aãeioõu])-h([aãeioõu]);\1-r\2-r\3;r entre vogais (palavras com 2x seguidas)
 ([aãeioõu])-h([aãeioõu])-h([aãeioõu])-h([aãeioõu]);\1-r\2-r\3-r\4;r entre vogais (palavras com 3x seguidas)
+([aãeioõu])-h([aãeioõu])-h([aãeioõu]);\1-r\2-r\3;r entre vogais (palavras com 2x seguidas)
+([aãeioõu])-h([aãeioõu]);\1-r\2;r entre vogais
 ss;s;
 s[cç];s;
 ç;s;
