@@ -136,8 +136,7 @@ h[u];u;
 (\')uum;u-\1hum;
 uhn;un;
 ([aãeioõu])-(\')?s([aãeioõu]);\1-\2z\3;s-> z entre vogais
-([aãeioõu])r-;\1R-;R em coda medial
-([aãeioõu]r\\b);\1R;R em coda final
+([aãeioõu])r\b;\1R;R em coda 
 rr;h;R forte -> h
 \br;h;R forte -> h
 ss;s;
