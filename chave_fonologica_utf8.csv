@@ -136,13 +136,8 @@ h[u];u;
 (\')uum;u-\1hum;
 uhn;un;
 ([aãeioõu])-(\')?s([aãeioõu]);\1-\2z\3;s-> z entre vogais
-([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais
-([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (2x na mesma palavra)
-([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (3x na mesma palavra)
-([aãeioõu])-(\')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (4x na mesma palavra)
-([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo
-([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo (2x na mesma palavra)
-([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo (3x na mesma palavra)
+([aãeioõu])r-;\\1R-;R em coda medial
+([aãeioõu]r\\b);\\1R;R em coda final
 rr;h;R forte -> h
 \br;h;R forte -> h
 ss;s;
