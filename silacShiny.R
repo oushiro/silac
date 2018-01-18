@@ -113,7 +113,7 @@ apagar<-gsub("chi-p", "chi-pI", apagar) #<------ novo
 apagar<-gsub("ca-tI-chu-p", "ca-tI-chu-pI", apagar) #<------ novo
 apagar<-gsub("ci-ne-mar-k", "ci-ne-mar-kI", apagar) #<------ novo
 apagar<-gsub("cul-t\\b", "cul-tI", apagar) #<------ novo
-apagar<-gsub("me-c", "me-kI", apagar) #<------ novo
+apagar<-gsub("me-c\\b", "me-kI", apagar) #<------ novo
 apagar<-gsub("u-ni-ci-d", "u-ni-ci-dI", apagar) #<------ novo
 apagar<-gsub("boyzi", "boy-zi", apagar) #<------ novo
 apagar<-gsub("gaydar", "gay-dar", apagar) #<------ novo
@@ -325,9 +325,8 @@ transc.fonologica2<-gsub("'por-ke", "por-'ke", transc.fonologica)
 transc.fonologica3<-gsub("R", "!", transc.fonologica2)
 transc.fonologica4<-gsub("r", "R", transc.fonologica3)
 transc.fonologica5<-gsub("\\!", "r", transc.fonologica4)
-transc.fonologica6<-gsub("ko-\\'me-kiej", "ko-me-'sej", transc.fonologica5)
 
-transc.fonologica6
+transc.fonologica5
 
 #cat(transc.fonologica2, file = input$newName, sep = "\n")
 
