@@ -194,12 +194,12 @@ b\'li-tIs;\'bli-tIs;
 b(\')ur-gI-mA;\1bur-gI-mA;nao ta funfando, nao sei pq!
 u-(\')dI-sO;\1hu-dI-sO;nao ta funfando, nao sei pq!
 I;i;I epentético -> i
-ã;A;vogais nasais -> maiúsculas
-õ;O;ditongos nasais
-a([mn]);A;
+ã;\~a;VOGAIS NASAIS
+õ;\~o;ditongos nasais
+a([mn]);\~a;
 e([mn]);\~e;
-i([mn]);I;
-o([mn]);O;
-u([mn]);U;
+i([mn]);\~i;
+o([mn]);\õ;
+u([mn]);\~u;
 ke-ti-(\')Su-pii;ke-ti-\1Su-pi;nao sei porque tá acontecendo ii, mas isso resolve
 (\')ses-kiis;\'ses-kis;
