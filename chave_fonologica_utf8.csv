@@ -105,6 +105,7 @@ pra-\'fren-tex;pra-\'fren-teks;
 \'ro-lex;\'ro-leks;
 ta-(\')?xi;ta-\1ksi;
 \'xbox;\'e-kis-boks;
+(\')?le-xi;\1le-ksi;
 e-xa-(\')?ge;e-za-\1ge;X -> Z
 e-(\')?xal-(\')?t;e-\1zal-\2t;
 \be-(\')?xa-([mt]);e-\1za-\2;exame, exato
