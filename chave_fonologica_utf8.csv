@@ -134,14 +134,14 @@ h[u];u;na
 '(\'')aam';a-\1ham;excecao aa regra de hV
 '(\'')uum';u-\1hum;na
 uhn;un;na
-([aãeioõu])-(\'')?s([aãeioõu]);\1-\2z\3;s-> z entre vogais
-([aãeioõu])-(\'')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais
-([aãeioõu])-(\'')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (2x na mesma palavra)
-([aãeioõu])-(\'')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (3x na mesma palavra)
-([aãeioõu])-(\'')?r([aãeioõu]);\1-\2R\3;R tepe entre vogais (4x na mesma palavra)
-([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo
-([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo (2x na mesma palavra)
-([bcdfgkptv])r([aãeioõu]);\1R\2;R tepe em ataque complexo (3x na mesma palavra)
+([aãáâeéêiíoôóõuú])-(\'')?s([aãáâeéêiíoôóõuú]);\1-\2z\3;s-> z entre vogais
+([aãáâeéêiíoôóõuú])-(\'')?r([aãáâeéêiíoôóõuú]);\1-\2R\3;R tepe entre vogais
+([aãáâeéêiíoôóõuú])-(\'')?r([aãáâeéêiíoôóõuú]);\1-\2R\3;R tepe entre vogais (2x na mesma palavra)
+([aãáâeéêiíoôóõuú])-(\'')?r([aãáâeéêiíoôóõuú]);\1-\2R\3;R tepe entre vogais (3x na mesma palavra)
+([aãáâeéêiíoôóõuú])-(\'')?r([aãáâeéêiíoôóõuú]);\1-\2R\3;R tepe entre vogais (4x na mesma palavra)
+([bcdfgkptv])r([aãáâeéêiíoôóõuú]);\1R\2;R tepe em ataque complexo
+([bcdfgkptv])r([aãáâeéêiíoôóõuú]);\1R\2;R tepe em ataque complexo (2x na mesma palavra)
+([bcdfgkptv])r([aãáâeéêiíoôóõuú]);\1R\2;R tepe em ataque complexo (3x na mesma palavra)
 rr;h;R forte -> h
 \br;h;R forte -> h
 ss;s;na
